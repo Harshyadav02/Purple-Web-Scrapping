@@ -1,0 +1,13 @@
+https://www.purplle.com/neo/merch/listing?list_type=category&list_type_value=skin%2Fcleansers&page=$i&sort_by=rel&elite=0&custom=&mode_device=desktop&ab_experiment_listing=e
+https://www.purplle.com/neo/merch/listing?list_type=category&list_type_value=makeup%2Feyes&page=$i&sort_by=rel&elite=0&custom=&mode_device=desktop&ab_experiment_listing=e
+https://www.purplle.com/neo/merch/listing?list_type=category&list_type_value=makeup%2Flips&page=$i&sort_by=rel&elite=0&custom=&mode_device=desktop&ab_experiment_listing=e
+https://www.purplle.com/neo/merch/listing?list_type=category&list_type_value=makeup%2Fnails&page=$i&sort_by=rel&elite=0&custom=&mode_device=desktop&ab_experiment_listing=e
+https://www.purplle.com/neo/merch/listing?list_type=category&list_type_value=makeup%2Fmakeup-brushes-and-tools%2Fface-brush&page=$i&sort_by=rel&elite=0&custom=&mode_device=desktop&ab_experiment_listing=e
+https://www.purplle.com/neo/merch/listing?list_type=category&list_type_value=skin%2Fcleansers&page=$i&sort_by=rel&elite=0&custom=&mode_device=desktop&ab_experiment_listing=e
+https://www.purplle.com/neo/merch/listing?list_type=category&list_type_value=skin%2Ftoner-face-mists&page=$i&sort_by=rel&elite=0&custom=&mode_device=desktop&ab_experiment_listing=e
+https://www.purplle.com/neo/merch/listing?list_type=category&list_type_value=skincare%2Feye-care&page=$i&sort_by=rel&elite=0&custom=&mode_device=desktop&ab_experiment_listing=e
+https://www.purplle.com/neo/merch/listing?list_type=category&list_type_value=makeup%2Flips&page=$i&sort_by=rel&elite=0&custom=&mode_device=desktop&ab_experiment_listing=e
+https://www.purplle.com/neo/merch/listing?list_type=category&list_type_value=skin%2Fhand-foot-care&page=$i&sort_by=rel&elite=0&custom=&mode_device=desktop&ab_experiment_listing=e
+https://www.purplle.com/neo/merch/listing?list_type=category&list_type_value=hair%2Fhair-accessories&page=$i&sort_by=rel&elite=0&custom=&mode_device=desktop&ab_experiment_listing=e
+https://www.purplle.com/neo/merch/listing?list_type=category&list_type_value=hair%2Fnourishment&page=4&sort_by=rel&elite=0&custom=&mode_device=desktop&ab_experiment_listing=e
+https://www.purplle.com/neo/merch/listing?list_type=category&list_type_value=men&page=$i&sort_by=rel&elite=0&custom=&mode_device=desktop&ab_experiment_listing=e
